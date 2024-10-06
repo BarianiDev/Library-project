@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Pedro",
+        "CPF": 12345678910,
+        "ID": 1,
+        "borrowed_books": []
+    },
+    {
+        "name": "Barbara",
+        "CPF": 523266563,
+        "ID": 2,
+        "borrowed_books": []
+    },
+    {
+        "name": "Jose",
+        "CPF": 5161636556,
+        "ID": 3,
+        "borrowed_books": []
+    }
+]
